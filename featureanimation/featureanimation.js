@@ -1,3 +1,4 @@
+/* eslint-disable */
 /*
 	Copyright (c) 2016 Jean-Marc VIGLINO, 
 	released under the CeCILL license (http://www.cecill.info/).
